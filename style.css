@@ -122,4 +122,8 @@ footer {
         margin: 1em 1em;
         padding: 1em 1em;
     }
+
+    .quiz-footer {
+        display: block;
+    }
 }
