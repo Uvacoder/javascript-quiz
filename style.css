@@ -23,6 +23,7 @@ h1, h2 {
 .quiz-box {
     background-color: #fff;
     padding: 2em 3em;
+    margin: 3em 1em;
     box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.3);
 }
 
