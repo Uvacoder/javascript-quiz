@@ -70,6 +70,7 @@ footer {
 .quiz-footer {
     display: flex;
     justify-content: space-between;
+    align-items: center; /* Prevents flex-items from stretching to fill flex-container */
 }
 
 .quiz-counter {
@@ -87,12 +88,13 @@ footer {
     margin-top: 1.5em;
 }
 
-.next-btn, .replay-btn {
-    padding: 0.8em 0.9em;
+.next-btn {
+    padding: 0.2em 0.7em;
     background-color: #B5C9F7;
     border: unset;
     text-transform: uppercase;
     font-family: "Poppins";
+    font-size: 20px;
     outline: none;
 }
 
