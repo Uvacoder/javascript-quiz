@@ -120,7 +120,7 @@ footer {
 @media only screen and (max-width: 750px) {
     .quiz-box {
         margin: 1em 1em;
-        padding: 1em 1em;
+        padding: 2em;
     }
 
     .quiz-footer {
